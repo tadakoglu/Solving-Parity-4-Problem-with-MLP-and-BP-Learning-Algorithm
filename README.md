@@ -4,4 +4,10 @@ I haved solved the Parity-4 problem using an artificial neural network called Mu
 ***
 You must start the app with ParityNStart.m file in MATLAB. If MATLAB have a hard time to start parityNStart, 
 you may have to shorten this dictionary name. It only should include English characters without any blanks. Best Regards.
+
+***
+
+
+***
+If the network were not able to converge, start the application again. It will use a different start coordinates for backpropagation algorithm.
 ***
